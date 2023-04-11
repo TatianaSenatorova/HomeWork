@@ -1,0 +1,5 @@
+
+Toy [id=3, name=Домик, weight=65.0]
+Toy [id=0, name=Машинка, weight=25.0]
+Toy [id=1, name=Мяч, weight=40.0]
+Toy [id=2, name=Конструктор, weight=3.0]
